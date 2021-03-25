@@ -6,9 +6,7 @@ A very simple noise module for Norns but with a mind of its own.
 
 ## Background
 I wanted to create a simple Norns project in order to learn Lua and 
-SuperCollider.
-
-Inspiration came from watching the 1989 film "Fat Man and Little Boy".
+SuperCollider. Inspiration came from watching the 1989 film "Fat Man and Little Boy".
 (https://www.youtube.com/watch?v=AQ0P7R9CfCY)
 
 I wanted to create a similar sound to that created when scientists 
@@ -18,7 +16,6 @@ and a screwdriver! as part of the Manhattan Project.
 The core was involved in two incidents at the Los Alamos Laboratory 
 in 1945 and 1946, resulting in the acute radiation poisoning and 
 subsequent deaths of scientists Harry Daghlian and Louis Slotin. 
-
 After these incidents the spherical plutonium core was referred to 
 as the "Demon Core".
 ## Manual
@@ -44,24 +41,21 @@ as the "Demon Core".
 ## Notes on Use
 The Norns script comprises of three menus that can be accessed
 by pressing the K2 button.
-Eash menu allows you to adjust the distance from the core,
+Each menu allows you to adjust the distance from the core,
 essentially this is just a volume control and appears on each
 menu page for convenience.
 
 The first menu page also allows you to change the Criticality
 (density) of the noise and the Blocks (mix) which affects the
-reverby Wet/Dry mix.
-
+reverby Wet/Dry mix. 
 The second menu page allows you to adjust the filter of the
 noise sound from both frequency and resonance amount.
-
 The third menu allows you to change the room size and damping
 of the reverb. Changes here affect the Dry/Wet mix on menu 1.
 
 Finally the K3 button toggles between the Core being "Alive"
 or "Sleeping". If toggled to the "Alive" setting the script
-will slowly randomise the settings. 
-
+will slowly randomise the settings.
 You can still interact with the core when in this mode and it's 
 useful for finding new noise sounds, when the Demon Core finds 
 a noise sound you like, click on the K3 button and take over.
