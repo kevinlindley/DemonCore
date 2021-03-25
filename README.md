@@ -1,2 +1,61 @@
 # DemonCore
-A very simple noise module for 
+A very simple noise module for learning norns, Lua and SuperCollider.
+
+## Requirements
+* Norns
+
+## Background
+I wanted to create a simple Norns project in order to learn Lua and 
+SuperCollider.
+Inspiration came from watching the 1989 film Fat Man and Little Boy
+(https://www.youtube.com/watch?v=AQ0P7R9CfCY)
+I wanted to create a similar sound to that created when scientists 
+were experimenting with a spherical plutonium core, blocks of graphite 
+and a screwdriver! as part of the Manhattan Project.
+The core was involved in two incidents at the Los Alamos Laboratory 
+in 1945 and 1946, resulting in the acute radiation poisoning and 
+subsequent deaths of scientists Harry Daghlian and Louis Slotin. 
+After these incidents the spherical plutonium core was referred to 
+as the "demon core".
+## Manual
+### Page 1 -  Core  (Noise)
+* Encoder 1 - Distance     (volume)
+* Encoder 2 - Criticality  (density)
+* Encoder 3 - Blocks       (mix)
+* Key 2 - Menu Page 2
+* Key 3 - Alive / Sleeping (rnd)
+### Page 2 - Sheild (LP Filter)
+* Encoder 1 - Distance   (volume)    
+* Encoder 2 - Thickness (frequency) 
+* Encoder 3 - Density   (amount)    
+* Key 2 - Menu Page 3
+* Key 3 - Alive / Sleeping (rnd)
+### Page 3 - Lab (Reverb)
+* Encoder 1 - Distance   (volume)
+* Encoder 2 - Temp      (room size)
+* Encoder 3 - Graphite  (damping)
+* Key 2 - Menu Page 1
+* Key 3 - Alive / Sleeping (rnd)
+## Notes on Use
+The Norns script comprises of three menus that can be accessed
+by pressing the K2 button.
+Eash screen allows you to adjust the distance from the core,
+essentially this is just a volume control and appears on each
+menu page for convenience.
+The first menu page also allows you to change the Criticality
+(density) of the noise and the Blocks (mix) which affects the
+reverby Wet/Dry mix.
+The second menu page allows you to adjust the filter of the
+noise sound from both frequency and resonance amount.
+The third menu allows you to change the room size and damping
+of the reverb. Changes here affect the Dry/Wet mix on menu 1.
+Finally the K3 button toggles between the Core being "Alive"
+or "Sleeping", if toggled to the "Alive" setting the script
+will slowly randomise the settings. You can still interact with
+the core when in this mode and its useful for finding new noise
+sounds, when the Demon Core finds a noise sound you like, click on
+the K3 button and take over.
+## Installation
+1. From maiden:
+```;install https://github.com/kevinlindley/DemonCore```
+2. Power Off and On to install the new Engine
