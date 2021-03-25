@@ -1,5 +1,5 @@
 # DemonCore
-A very simple noise module for learning norns, Lua and SuperCollider.
+A very simple noise module for Norns but with a mind of its own.
 
 ## Requirements
 * Norns
@@ -7,16 +7,18 @@ A very simple noise module for learning norns, Lua and SuperCollider.
 ## Background
 I wanted to create a simple Norns project in order to learn Lua and 
 SuperCollider.
-Inspiration came from watching the 1989 film Fat Man and Little Boy
+Inspiration came from watching the 1989 film "Fat Man and Little Boy"
 (https://www.youtube.com/watch?v=AQ0P7R9CfCY)
 I wanted to create a similar sound to that created when scientists 
 were experimenting with a spherical plutonium core, blocks of graphite 
 and a screwdriver! as part of the Manhattan Project.
+
 The core was involved in two incidents at the Los Alamos Laboratory 
 in 1945 and 1946, resulting in the acute radiation poisoning and 
 subsequent deaths of scientists Harry Daghlian and Louis Slotin. 
+
 After these incidents the spherical plutonium core was referred to 
-as the "demon core".
+as the "Demon Core".
 ## Manual
 ![alt text](https://github.com/kevinlindley/DemonCore/blob/55c5bdccfdd51665a203fefc01973fa4af2d7787/DemonCoreSmall.png "Demon Core running on a Norns Shield")
 ### Page 1 -  Core  (Noise)
