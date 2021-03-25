@@ -61,5 +61,5 @@ useful for finding new noise sounds, when the Demon Core finds
 a noise sound you like, click on the K3 button and take over.
 ## Installation
 1. From maiden:
-```;install https://github.com/kevinlindley/DemonCore```
+```;install https://github.com/kevinlindley/demoncore```
 2. Power Off and On to install the new Engine.
