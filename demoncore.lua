@@ -16,7 +16,7 @@
 -- key2 - Menu Page 2
 -- key3 - Alive / Sleeping (rnd)
 --
--- -- Page 2 - Sheild (LP Filter)
+-- -- Page 2 - Shield (LP Filter)
 -- -------------------------------
 -- enc1 - Distance   (volume)    
 -- enc2 - Thickness (frequency) 
