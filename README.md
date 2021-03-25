@@ -7,8 +7,10 @@ A very simple noise module for Norns but with a mind of its own.
 ## Background
 I wanted to create a simple Norns project in order to learn Lua and 
 SuperCollider.
-Inspiration came from watching the 1989 film "Fat Man and Little Boy"
+
+Inspiration came from watching the 1989 film "Fat Man and Little Boy".
 (https://www.youtube.com/watch?v=AQ0P7R9CfCY)
+
 I wanted to create a similar sound to that created when scientists 
 were experimenting with a spherical plutonium core, blocks of graphite 
 and a screwdriver! as part of the Manhattan Project.
