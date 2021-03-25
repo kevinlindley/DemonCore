@@ -26,7 +26,7 @@ as the "Demon Core".
 * Encoder 3 - Blocks       (mix)
 * Key 2 - Menu Page 2
 * Key 3 - Alive / Sleeping (rnd)
-### Page 2 - Sheild (LP Filter)
+### Page 2 - Shield (LP Filter)
 * Encoder 1 - Distance   (volume)    
 * Encoder 2 - Thickness (frequency) 
 * Encoder 3 - Density   (amount)    
@@ -47,7 +47,7 @@ menu page for convenience.
 
 The first menu page also allows you to change the Criticality
 (density) of the noise and the Blocks (mix) which affects the
-reverby Wet/Dry mix. 
+reverb Wet/Dry mix. 
 The second menu page allows you to adjust the filter of the
 noise sound from both frequency and resonance amount.
 The third menu allows you to change the room size and damping
