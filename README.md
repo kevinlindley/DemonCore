@@ -40,22 +40,27 @@ as the "demon core".
 ## Notes on Use
 The Norns script comprises of three menus that can be accessed
 by pressing the K2 button.
-Eash screen allows you to adjust the distance from the core,
+Eash menu allows you to adjust the distance from the core,
 essentially this is just a volume control and appears on each
 menu page for convenience.
+
 The first menu page also allows you to change the Criticality
 (density) of the noise and the Blocks (mix) which affects the
 reverby Wet/Dry mix.
+
 The second menu page allows you to adjust the filter of the
 noise sound from both frequency and resonance amount.
+
 The third menu allows you to change the room size and damping
 of the reverb. Changes here affect the Dry/Wet mix on menu 1.
+
 Finally the K3 button toggles between the Core being "Alive"
-or "Sleeping", if toggled to the "Alive" setting the script
-will slowly randomise the settings. You can still interact with
-the core when in this mode and its useful for finding new noise
-sounds, when the Demon Core finds a noise sound you like, click on
-the K3 button and take over.
+or "Sleeping". If toggled to the "Alive" setting the script
+will slowly randomise the settings. 
+
+You can still interact with the core when in this mode and it's 
+useful for finding new noise sounds, when the Demon Core finds 
+a noise sound you like, click on the K3 button and take over.
 ## Installation
 1. From maiden:
 ```;install https://github.com/kevinlindley/DemonCore```
