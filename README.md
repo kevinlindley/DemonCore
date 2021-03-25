@@ -1,4 +1,4 @@
-# DemonCore
+# demoncore
 A very simple noise module for Norns but with a mind of its own.
 
 ## Requirements
