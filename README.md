@@ -18,6 +18,7 @@ subsequent deaths of scientists Harry Daghlian and Louis Slotin.
 After these incidents the spherical plutonium core was referred to 
 as the "demon core".
 ## Manual
+![alt text](https://github.com/kevinlindley/DemonCore/blob/55c5bdccfdd51665a203fefc01973fa4af2d7787/DemonCoreSmall.png "Demon Core running on a Norns Shield")
 ### Page 1 -  Core  (Noise)
 * Encoder 1 - Distance     (volume)
 * Encoder 2 - Criticality  (density)
@@ -58,4 +59,4 @@ the K3 button and take over.
 ## Installation
 1. From maiden:
 ```;install https://github.com/kevinlindley/DemonCore```
-2. Power Off and On to install the new Engine
+2. Power Off and On to install the new Engine.
