@@ -21,29 +21,27 @@ as the "Demon Core".
 ## Manual
 ![alt text](https://github.com/kevinlindley/DemonCore/blob/55c5bdccfdd51665a203fefc01973fa4af2d7787/DemonCoreSmall.png "Demon Core running on a Norns Shield")
 ### Page 1 -  Core  (Noise)
-* Encoder 1 - Distance     (volume)
+* Encoder 1 - Volume
 * Encoder 2 - Criticality  (density)
 * Encoder 3 - Blocks       (mix)
 * Key 2 - Menu Page 2
 * Key 3 - Alive / Sleeping (rnd)
 ### Page 2 - Shield (LP Filter)
-* Encoder 1 - Distance   (volume)    
-* Encoder 2 - Thickness (frequency) 
-* Encoder 3 - Density   (amount)    
+* Encoder 1 - Volumne   
+* Encoder 2 - Frequency
+* Encoder 3 - Amount  
 * Key 2 - Menu Page 3
 * Key 3 - Alive / Sleeping (rnd)
 ### Page 3 - Lab (Reverb)
-* Encoder 1 - Distance   (volume)
-* Encoder 2 - Temp      (room size)
-* Encoder 3 - Graphite  (damping)
+* Encoder 1 - Volume
+* Encoder 2 - Room size
+* Encoder 3 - Damping
 * Key 2 - Menu Page 1
 * Key 3 - Alive / Sleeping (rnd)
 ## Notes on Use
 The Norns script comprises of three menus that can be accessed
 by pressing the K2 button.
-Each menu allows you to adjust the distance from the core,
-essentially this is just a volume control and appears on each
-menu page for convenience.
+Each menu allows you to adjust the volume control for convenience.
 
 The first menu page also allows you to change the Criticality
 (density) of the noise and the Blocks (mix) which affects the
