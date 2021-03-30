@@ -23,25 +23,26 @@ as the "Demon Core".
 ### Page 1 -  Core  (Noise)
 * Encoder 1 - Volume
 * Encoder 2 - Criticality  (density)
-* Encoder 3 - Blocks       (mix)
+* Encoder 3 - Mix
 * Key 2 - Menu Page 2
 * Key 3 - Alive / Sleeping (rnd)
 ### Page 2 - Shield (LP Filter)
-* Encoder 1 - Volumne   
-* Encoder 2 - Frequency
-* Encoder 3 - Amount  
+* Encoder 1 - Volume    
+* Encoder 2 - Frequency 
+* Encoder 3 - Cuttoff    
 * Key 2 - Menu Page 3
 * Key 3 - Alive / Sleeping (rnd)
 ### Page 3 - Lab (Reverb)
 * Encoder 1 - Volume
-* Encoder 2 - Room size
-* Encoder 3 - Damping
+* Encoder 2 - Room Size
+* Encoder 3 - Dmaping
 * Key 2 - Menu Page 1
 * Key 3 - Alive / Sleeping (rnd)
 ## Notes on Use
 The Norns script comprises of three menus that can be accessed
 by pressing the K2 button.
-Each menu allows you to adjust the volume control for convenience.
+Each menu allows you to adjust the volume control for 
+convenience.
 
 The first menu page also allows you to change the Criticality
 (density) of the noise and the Blocks (mix) which affects the
